@@ -1,0 +1,9 @@
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Decryptor.exe.config
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Decryptor.exe
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Decryptor.pdb
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Levi.Properties.Resources.resources
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Decryptor.exe
+C:\Users\Levi\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Decryptor.pdb
